@@ -2,7 +2,7 @@
 ## laptop price prediction using machine learning
 
 
-In this project i  have to predict the price of different laptops using the given data sets using linear regression
+In this project i  have to predict the price of different laptops using the given data sets.
 
 
 -Data set used- https://www.kaggle.com/datasets/muhammetvarl/laptop-price
